@@ -1,0 +1,26 @@
+producto_id,nombre,categoria,precio_compra,precio_venta,activo
+1,Arroz Diana 500g,Abarrotes,2200,3000,True
+2,Aceite Girasol 1L,Abarrotes,7800,9800,True
+3,Panela x 500g,Abarrotes,2500,3500,True
+4,Cafe Sello Rojo 250g,Abarrotes,6500,8500,True
+5,Leche Alqueria 1L,Lacteos,3200,4200,True
+6,Queso Campesino 250g,Lacteos,5500,7500,True
+7,Yogurt Alpina 200ml,Lacteos,1800,2600,True
+8,Gaseosa Coca-Cola 400ml,Bebidas,2000,3000,True
+9,Agua Cristal 600ml,Bebidas,800,1500,True
+10,Jugo Hit 500ml,Bebidas,2200,3200,True
+11,Papas Margarita 30g,Snacks,1200,2000,True
+12,Chocolatina Jet,Snacks,700,1200,True
+13,Galletas Festival,Snacks,900,1500,True
+14,Detergente Fab 500g,Aseo,4500,6200,True
+15,Jabon Rey 250g,Aseo,1800,2800,True
+16,Papel Higienico Familia x4,Aseo,3800,5500,True
+17,Shampoo Sedal 200ml,Aseo,5200,7200,True
+18,Cigarrillos Marlboro,Varios,4500,6000,True
+19,Pilas AA x2,Varios,2500,4000,True
+20,Encendedor,Varios,800,1500,True
+21,Huevos x12,Viveres,6000,8000,True
+22,Pan tajado Bimbo,Lacteos,4200,6000,True
+23,Sal Refisal 500g,Abarrotes,1000,1800,True
+24,Azucar Manuelita 1kg,Abarrotes,3800,5200,True
+25,Atun Van Camps 170g,Abarrotes,3500,5000,True
